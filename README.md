@@ -1,4 +1,4 @@
-# Patient Management
+# Doctor-Receptionist Management
 
 ## Introduction
 
